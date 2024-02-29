@@ -150,7 +150,7 @@ function MovieRate({ movie }) {
                     src={
                       review?.user_image
                         ? review.user_image
-                        : "/images/ninja.png"
+                        : "/images/user.png"
                     }
                     alt={review?.user_name}
                     className="w-full h-24 rounded-lg object-cover"

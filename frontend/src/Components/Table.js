@@ -13,7 +13,7 @@ const Rows = (movie, i, admin, onDelete) => {
         <div className="w-12 p-1 border border-border h-12 rounded overflow-hidden">
           <img
             className="h-16 w-16 rounded-full object-cover"
-            src={movie.title_image || "/images/user.png"}
+            src={movie.title_image || "/images/table_logo.png"}
             alt={movie.name}
           />
         </div>

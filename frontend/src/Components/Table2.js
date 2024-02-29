@@ -29,7 +29,7 @@ const Rows = (
             <div className="w-12 p-1 border border-border h-12 rounded overflow-hidden">
               <img
                 className="h-16 w-16 rounded-full object-cover"
-                src={data.image ? data.image : "/images/user.png"}
+                src={data.image ? data.image : "/images/table_logo.png"}
                 alt={data.name}
               />
             </div>
