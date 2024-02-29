@@ -9,5 +9,5 @@ Backend Api is implemented with laravel and frontend is implemented with React J
 - php artisan storage:link
 - php artisan migrate --seed
 
-  # Frontend Setup
+# Frontend Setup
   -npm install
